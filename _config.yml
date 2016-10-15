@@ -1,2 +1,3 @@
 name: Desmond Ramirez
-markdown: ghmarkdown
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
